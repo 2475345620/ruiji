@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="255d49b9-e4f1-4a15-ba45-9f0466aaa069" name="变更" comment="瑞吉外卖1.0">
+      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\study\Maven\apache-maven-3.6.1\mvn_resp" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\study\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Ay1J95Z4lRQKNqCKnuwZguoDxV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\idea\ideademo\项目\ruiji\src" />
+      <recent name="D:\study\idea\ideademo\项目\ruiji\src\main\java\com\xiaoren\ruiji\dto" />
+      <recent name="D:\study\idea\ideademo\项目\ruiji\src\main\resources\backend\page\demo" />
+      <recent name="D:\study\idea\ideademo\项目\ruiji\src\main\java\com\xiaoren\ruiji\common" />
+      <recent name="D:\study\idea\ideademo\项目\ruiji\src\main\resources\backend\plugins\axios" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\idea\ideademo\项目\ruiji\src\main\resources\front\js" />
+      <recent name="D:\study\idea\ideademo\项目\ruiji\src\main\resources" />
+      <recent name="D:\study\idea\ideademo\项目\ruiji\src\main\resources\static" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.xiaoren.ruiji.config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RuijiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ruiji" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaoren.ruiji.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoren.ruiji.RuijiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RuijiApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="255d49b9-e4f1-4a15-ba45-9f0466aaa069" name="变更" comment="" />
+      <created>1655966939843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655966939843</updated>
+      <workItem from="1655966940941" duration="3863000" />
+      <workItem from="1655970891986" duration="75000" />
+      <workItem from="1655970986198" duration="9000" />
+      <workItem from="1655971010988" duration="35000" />
+      <workItem from="1655971062004" duration="594000" />
+      <workItem from="1655971722327" duration="868000" />
+      <workItem from="1655972735232" duration="97000" />
+      <workItem from="1655972947330" duration="462000" />
+      <workItem from="1655973427138" duration="22000" />
+      <workItem from="1655973458140" duration="134000" />
+      <workItem from="1655973618416" duration="1718000" />
+      <workItem from="1663130318304" duration="13528000" />
+      <workItem from="1663223482505" duration="94000" />
+      <workItem from="1663223630225" duration="25445000" />
+      <workItem from="1663298013184" duration="19801000" />
+      <workItem from="1663563328868" duration="22000" />
+      <workItem from="1663590128932" duration="12139000" />
+      <workItem from="1663742499669" duration="3052000" />
+      <workItem from="1663746906837" duration="502000" />
+    </task>
+    <task id="LOCAL-00001" summary="瑞吉外卖1.0">
+      <created>1663746394174</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663746394174</updated>
+    </task>
+    <task id="LOCAL-00002" summary="瑞吉外卖1.0">
+      <created>1663747308860</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663747308860</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="瑞吉外卖1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="瑞吉外卖1.0" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
